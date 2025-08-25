@@ -22,22 +22,10 @@ Our most valuable asset is our team of consultants, architects, and developers w
 Innovactive has earned the trust of diverse clients across multiple industries:
 
 ### Healthcare & Medical
-- **Tirana Dental Hospital** - Modern dental implantology clinic offering European-standard services
-- **Longevitas** - Italian clinics specializing in mitochondrial and longevity medicine
-- **e-Medicina Estetica** - Aesthetic medicine information and practice centers in northern Italy
-- **Dr. Lauren** - High-tech dental implants and denture services
-
 ### Security & Training  
-- **Pelikani Security Group** - Leading private security company in Albania with 700+ employees
-- **Arms School Academy** - Albania's largest multifunction center with weapon store and training academy
-
 ### Business & Communication
-- **Carism Comunicazione** - Italian communication company with 40+ years of experience
-- **Aurora Hotel Residence** - Premier hotel residence in a top tourist destination
-
 ### Industrial & Technical
-- **HydroSeven Impianti** - Italian company specializing in hydro-sanitary system management and design
-- **H3.0 Water** - Wellness-focused water solutions optimizing health and hydration
+
 
 ## Contact Information
 
